@@ -4,6 +4,8 @@ import java.util.stream.Collectors;
 
 public class 技巧 {
 
+    // 更新2
+
 
     public void 二维数组排序(){
         int[][] nums = new int[][]{{1,4,2},{3,6,2},{8,9,2},{4,5,3}};
