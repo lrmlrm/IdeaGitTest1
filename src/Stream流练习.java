@@ -37,6 +37,7 @@ public class Stream流练习 {
     }
 
 
+    // 加了点东西
     public static String readTxt(String path){
         File file = new File(path);
         // 读取文本
